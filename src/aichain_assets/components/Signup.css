@@ -1,0 +1,20 @@
+/* .ctb {
+	background-color:white;
+	width: 100%;
+	max-width: 100%;
+	color: #1e1b2e;
+	border: none;
+	padding: 10px 20px;
+	border-radius: 5px;
+	font-size: 1.4rem;
+	cursor: pointer;
+} */
+
+.signup{
+	background-color: #1e1b2e;
+	height: 85vh;
+}
+
+/* .cta:hover {
+	background-position: right;
+} */
